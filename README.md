@@ -36,4 +36,4 @@ Após um treino de 30 épocas, alcançou-se uma acurácia nos conjuntos de valid
 
 ---
 
-Projeto desenvolvido para o terceiro módulo do curso de Especialização em Inteligência Artifical Aplicada, semestre 2021/2, do Instituto Federal de Goiás - Câmpus Goiânia.
+Projeto desenvolvido para a disciplina Deep Learning do curso de Especialização em Inteligência Artifical Aplicada, semestre 2021/2, do Instituto Federal de Goiás - Câmpus Goiânia.
